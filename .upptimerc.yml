@@ -13,6 +13,8 @@ sites:
     url: https://public.jeremiez.net/airboardgame/store/game?fields=_id%2Cboard%2Cowner
   - name: Ricochet
     url: https://public.jeremiez.net/ricochet/store/game?fields=_id%2Cboard%2Cowner
+    headers:
+      - "Origin: https://airboardgame.net"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
