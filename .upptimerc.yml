@@ -9,8 +9,6 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Airboardgame
     url: https://airboardgame.net
-  - name: Airboardgame back
-    url: https://public.jeremiez.net/airboardgame/store/game?fields=_id%2Cboard%2Cowner
   - name: Ricochet
     url: https://public.jeremiez.net/ricochet/store/game?fields=_id%2Cboard%2Cowner
     headers:
