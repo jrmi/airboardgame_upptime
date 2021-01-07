@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1052,
-    "timeDay": 1052,
-    "timeWeek": 1052,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "time": 1107,
+    "timeDay": 1107,
+    "timeWeek": 1107,
+    "timeMonth": 1107,
+    "timeYear": 1107,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Ricochet",
+    "url": "https://public.jeremiez.net/ricochet/store/game?fields=_id%2Cboard%2Cowner",
+    "icon": "https://favicons.githubusercontent.com/public.jeremiez.net",
+    "slug": "ricochet",
+    "status": "down",
+    "uptime": "12.73%",
+    "uptimeDay": "12.73%",
+    "uptimeWeek": "12.73%",
+    "uptimeMonth": "12.73%",
+    "uptimeYear": "12.73%",
+    "time": 321,
+    "timeDay": 321,
+    "timeWeek": 321,
+    "timeMonth": 321,
+    "timeYear": 321,
+    "dailyMinutesDown": {
+      "2021-01-07": 0
+    }
   }
 ]
