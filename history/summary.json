@@ -4,9 +4,9 @@
     "url": "https://airboardgame.net",
     "icon": "https://favicons.githubusercontent.com/airboardgame.net",
     "slug": "airboardgame",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 212,
     "timeMonth": 213,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-20": 0
+    }
   },
   {
     "name": "Ricochet",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/public.jeremiez.net",
     "slug": "ricochet",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1179,
     "timeDay": 1129,
     "timeWeek": 1030,
