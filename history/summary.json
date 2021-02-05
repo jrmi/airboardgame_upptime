@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 235,
-    "timeDay": 195,
-    "timeWeek": 170,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 236,
+    "timeDay": 282,
+    "timeWeek": 183,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2021-01-20": 33
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/public.jeremiez.net",
     "slug": "ricochet",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1110,
-    "timeDay": 1568,
-    "timeWeek": 1160,
-    "timeMonth": 1110,
-    "timeYear": 1110,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1112,
+    "timeDay": 1151,
+    "timeWeek": 1126,
+    "timeMonth": 1112,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2021-01-07": 60
     }
