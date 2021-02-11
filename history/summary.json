@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/airboardgame.net",
     "slug": "airboardgame",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.93%",
-    "time": 242,
-    "timeDay": 187,
-    "timeWeek": 270,
-    "timeMonth": 251,
-    "timeYear": 242,
+    "uptimeYear": "99.94%",
+    "time": 245,
+    "timeDay": 377,
+    "timeWeek": 296,
+    "timeMonth": 255,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2021-01-20": 33
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1085,
-    "timeDay": 1099,
-    "timeWeek": 1032,
-    "timeMonth": 1020,
-    "timeYear": 1085,
+    "time": 1074,
+    "timeDay": 631,
+    "timeWeek": 898,
+    "timeMonth": 1013,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2021-01-07": 60
     }
