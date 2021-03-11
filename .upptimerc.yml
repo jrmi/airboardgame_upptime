@@ -10,7 +10,7 @@ sites:
   - name: Airboardgame
     url: https://airboardgame.net
   - name: Ricochet
-    url: https://public.jeremiez.net/ricochet/store/game?fields=_id%2Cboard%2Cowner
+    url: https://ricochetjs.herokuapp.com/store/game?fields=_id%2Cboard%2Cowner
     headers:
       - "Origin: https://airboardgame.net"
 
