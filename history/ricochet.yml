@@ -1,7 +1,7 @@
 url: https://ricochetjs.herokuapp.com/store/game?fields=_id%2Cboard%2Cowner
 status: up
 code: 200
-responseTime: 601
-lastUpdated: 2021-03-11T23:09:41.660Z
+responseTime: 380
+lastUpdated: 2021-03-12T23:09:50.827Z
 startTime: Thu Jan 07 2021 10:12:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
