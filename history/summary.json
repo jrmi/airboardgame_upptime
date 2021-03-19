@@ -4,17 +4,17 @@
     "url": "https://airboardgame.net",
     "icon": "https://favicons.githubusercontent.com/airboardgame.net",
     "slug": "airboardgame",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 283,
-    "timeDay": 975,
-    "timeWeek": 351,
-    "timeMonth": 321,
-    "timeYear": 283,
+    "time": 281,
+    "timeDay": 562,
+    "timeWeek": 325,
+    "timeMonth": 315,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2021-01-20": 33
     }
