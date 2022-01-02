@@ -1,7 +1,7 @@
 url: https://ricochetjs.herokuapp.com/store/game?fields=_id%2Cboard%2Cowner
 status: down
 code: 404
-responseTime: 582
-lastUpdated: 2022-01-01T23:11:18.855Z
+responseTime: 475
+lastUpdated: 2022-01-02T23:10:59.941Z
 startTime: Thu Jan 07 2021 10:12:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
