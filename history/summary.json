@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 194,
-    "timeWeek": 247,
-    "timeMonth": 238,
-    "timeYear": 253,
+    "time": 252,
+    "timeDay": 79,
+    "timeWeek": 241,
+    "timeMonth": 236,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/ricochetjs.herokuapp.com",
     "slug": "ricochet",
     "status": "down",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
-    "timeDay": 327,
-    "timeWeek": 470,
-    "timeMonth": 458,
-    "timeYear": 476,
+    "timeDay": 318,
+    "timeWeek": 469,
+    "timeMonth": 454,
+    "timeYear": 477,
     "dailyMinutesDown": {}
   }
 ]
