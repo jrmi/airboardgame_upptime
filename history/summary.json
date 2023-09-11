@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 67,
-    "timeWeek": 96,
+    "timeDay": 144,
+    "timeWeek": 90,
     "timeMonth": 177,
-    "timeYear": 239,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ricochetjs-deploy-production.up.railway.app.ico",
     "slug": "ricochet",
     "status": "down",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 184,
-    "timeWeek": 246,
-    "timeMonth": 230,
+    "timeDay": 464,
+    "timeWeek": 286,
+    "timeMonth": 236,
     "timeYear": 363,
     "dailyMinutesDown": {}
   }
