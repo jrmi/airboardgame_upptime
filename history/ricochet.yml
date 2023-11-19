@@ -1,7 +1,7 @@
 url: https://ricochetjs-deploy-production.up.railway.app/store/game?fields=_id%2Cboard%2Cowner
 status: down
 code: 404
-responseTime: 310
-lastUpdated: 2023-11-18T23:09:33.445Z
+responseTime: 192
+lastUpdated: 2023-11-19T23:09:35.231Z
 startTime: 2021-01-07T10:12:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
