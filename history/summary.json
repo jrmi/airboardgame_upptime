@@ -4,19 +4,19 @@
     "url": "https://airboardgame.net",
     "icon": "https://icons.duckduckgo.com/ip3/airboardgame.net.ico",
     "slug": "airboardgame",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 123,
-    "timeWeek": 701,
-    "timeMonth": 275,
+    "timeDay": 144,
+    "timeWeek": 634,
+    "timeMonth": 271,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 19
     }
   },
   {
